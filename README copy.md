@@ -34,10 +34,3 @@ Nếu bạn cần cài đặt các thư viện bổ sung hoặc cấu hình chi 
 * PyTorch
 * MTCNN
 * OpenCV
-## Tác giả
-* Dự án này được phát triển bởi **Ngô Hoàng Phúc.**
-
-
-
-## Liên hệ
-* Nếu bạn có bất kỳ câu hỏi hoặc đề xuất, vui lòng liên hệ với chúng tôi tại *ngohoangphuc.work@gmai.com*
